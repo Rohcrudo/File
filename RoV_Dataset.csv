@@ -1,4 +1,4 @@
-﻿Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,Column14,Column15,Column16,Column17,Column18,Column19,Column20,Column21,Column22,Column23,Column24,Column25,Column26,Column27,Column28,Column29
+Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,Column14,Column15,Column16,Column17,Column18,Column19,Column20,Column21,Column22,Column23,Column24,Column25,Column26,Column27,Column28,Column29
 HKA,ONE,1,2/26/2022,2:00:00 PM,GCS2022Spring,Taiwan,Tachi,Keera,Liliana,Tel'Annas,Roxie,16:41,Xeniel,Laville,Lorion,Kriknak,Veres,Aya,Elsu,Aoi,Florentino,1,Eland'orr,Airi,Superman,Omen,R,DaDa
 HKA,ONE,2,2/26/2022,2:00:00 PM,GCS2022Spring,Taiwan,Yena,Tulen,Krixi,Elsu,Arum,40:00,Payna,Slimz,Dirak,Skud,Airi,Omen,Aoi,Keera,Iggy,2,Kriknak,Nakroth,Yue,Aya,B,Nk
 HKA,ONE,2,2/26/2022,2:00:00 PM,GCS2022Spring,Taiwan,Qi,Errol,Yue,Laville,Lumburr,30:17,Baldum,TheJoker,Krixi,Aoi,Florentino,Aya,Omen,Elsu,Hayate,3,Xeniel,Airi,Mina,Lorion,R,Zhe
@@ -461,9 +461,9 @@ VGM,FAP,1,4/23/2022,5:00:00 PM,AOG2022Spring,Vietnam,Yena,Aoi,Krixi,Capheny,Vere
 HEV,SGP,2,4/23/2022,7:30:00 PM,AOG2022Spring,Vietnam,Yena,LuBu,Dirak,Capheny,Payna,16:33,Maloch,Elsu,Yue,Volkath,Zuka,Aya,Lorion,Tachi,Baldum,1,Eland'orr,Krixi,Iggy,Omen,R,Khoa
 HEV,SGP,2,4/23/2022,7:30:00 PM,AOG2022Spring,Vietnam,Riktor,Errol,Lorion,Elsu,Ormarr,10:33,Thane,Laville,Krixi,Veres,Roxie,Florentino,Mina,Tachi,Keera,2,Wukong,Volkath,Omen,Aya,B,Bângg
 HEV,SGP,2,4/23/2022,7:30:00 PM,AOG2022Spring,Vietnam,Rourke,Tachi,Krixi,Violet,Baldum,15:24,Lumburr,Thorne,Liliana,Aoi,Florentino,Mina,Lorion,Keera,Eland'orr,3,Volkath,TheJoker,Omen,Aya,B,Bângg
-HQ,B2F,1,4/24/2022,2:30:00 PM,AOG2022Spring,Vietnam,Riktor,Tachi,Liliana,Capheny,Maloch,17:55,Arthur,Elsu,Lorion,Errol,Yena,Aya,Mina,Eland'orr,Game,,Florentino,Yue,Omen,Mina,R,HQ
-HQ,B2F,1,4/24/2022,2:30:00 PM,AOG2022Spring,Vietnam,Zuka,Nakroth,Dirak,Hayate,Florentino,12:03,Aleister,Laville,Krixi,Kriknak,Airi,Liliana,Riktor,Eland'orr,Game,,Xeniel,Lorion,Aya,Aya,B,S918
-HQ,B2F,1,4/24/2022,2:30:00 PM,AOG2022Spring,Vietnam,Yena,Eland'orr,Krixi,Thorne,Chaugnar,10:22,Grakk,Hayate,Veera,Nakroth,Florentino,Iggy,Valhein,Slimz,Game,,Roxie,Yue,Lorion,111,R,S918
+HQ,B2F,1,4/24/2022,2:30:00 PM,AOG2022Spring,Vietnam,Riktor,Tachi,Liliana,Capheny,Maloch,17:55,Arthur,Elsu,Lorion,Errol,Yena,Aya,Mina,Eland'orr,Null,1,Aoi,Florentino,Yue,Omen,R,HQ
+HQ,B2F,1,4/24/2022,2:30:00 PM,AOG2022Spring,Vietnam,Zuka,Nakroth,Dirak,Hayate,Florentino,12:03,Aleister,Laville,Krixi,Kriknak,Airi,Mina,Liliana,Riktor,Eland'orr,2,Omen,Xeniel,Lorion,Aya,B,S918
+HQ,B2F,1,4/24/2022,2:30:00 PM,AOG2022Spring,Vietnam,Yena,Eland'orr,Krixi,Thorne,Chaugnar,10:22,Grakk,Hayate,Veera,Nakroth,Florentino,Aya,Iggy,Valhein,Slimz,3,Baldum,Roxie,Yue,Lorion,R,S918
 MG,CES,1,4/24/2022,5:00:00 PM,AOG2022Spring,Vietnam,Qi,Errol,Yue,Elsu,Lumburr,18:06,Riktor,Laville,Liliana,Eland'orr,Zuka,Omen,Iggy,Volkath,Nakroth,1,Florentino,Aoi,Lorion,Aya,B,HXK
 MG,CES,2,4/24/2022,5:00:00 PM,AOG2022Spring,Vietnam,Arthur,Zuka,Tulen,Hayate,Riktor,14:57,Baldum,Slimz,Yue,Wukong,Yena,Aya,Lorion,Kriknak,Aoi,2,Airi,Florentino,Iggy,Omen,R,Franky
 MG,CES,2,4/24/2022,5:00:00 PM,AOG2022Spring,Vietnam,Yena,Airi,Iggy,Violet,Baldum,09:44,Lumburr,Capheny,Krixi,Keera,Ryoma,Hayate,Omen,Florentino,Payna,3,Skud,Nakroth,Lorion,Aya,B,Judas
